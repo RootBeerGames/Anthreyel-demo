@@ -1,0 +1,13 @@
+{
+ "version": "0.35.1",
+ "title": "Always Up to Date",
+ "pck": "demo/anthreyel-0.35.1.pck",
+ "size": 8334600,
+ "sha256": "e510c05aa399eeab3e49340d314e8649261f89a427991aeebb7cfda8f18be7e5",
+ "engine": "4.7.2",
+ "notes": [
+  "Automatic updates: the demo checks for a new version when it starts. If there is one, the main menu shows \"Update available\" with what's new (hover it). Click Update now: it downloads just the game data (a few MB), restarts, and you're on the new version.",
+  "The game folder now has Anthreyel.exe plus Anthreyel.pck (the game itself). Keep them together.",
+  "Game Guide: a new About page with the version and credits."
+ ]
+}
