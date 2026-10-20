@@ -1,12 +1,15 @@
 {
- "version": "0.35.2",
- "title": "Bad Blood",
- "pck": "demo/anthreyel-0.35.2.pck",
- "size": 8336728,
- "sha256": "ea8f16c2059d347da24bd08bc25402f5b7e22acea15348896f26632483d8092a",
+ "version": "0.36.0",
+ "title": "Class Stats",
+ "pck": "demo/anthreyel-0.36.0.pck",
+ "size": 8373672,
+ "sha256": "f6364988514cbbd7e21acee60b69ec1f00d0567fa23805d778bd4b808970c22f",
  "engine": "4.7.2",
  "notes": [
-  "New Executioner passive: Bad Blood (Gallows). When you kill an enemy, its wounds leap in arcs of blood to up to 3 enemies within 6m: part of its Hemorrhage (half at first, more with levels) plus all your poison and venom on it. Stacks that land can push an enemy to 10 and Exsanguinate it, so one kill can ripple through a pack.",
-  "Bad Blood on hit (6%): the struck enemy's Hemorrhage jumps to the nearest enemy too, so a bleeding boss infects its adds."
+  "Every class has an attribute of its own, the sixth row in the Attributes window (A): Devotion (Knight), Arcana (Mage), Cunning (Rogue), Resolve (Warden), Spirit (Shaman), Ingenuity (Artificer), Erudition (Alchemist), Luck (Jester), Matriarch (Drider) and Malice (Executioner). It's paid for from the same points and strengthens what the class does best.",
+  "Breakpoints at 25, 75 and 150 points add new tricks (for example: Hemorrhage stacks to 15, residue left in the Crucible, totems linking up, minions saved from death). Points past 100 count half and past 200 a quarter.",
+  "Capstones at 300 points you spent yourself: each class chooses one of two or three, switchable in camp. A few: The Last Sentence (execute bosses below 10%), Spellweaver (every spell echoes), Shadow Twin, Spirit Web, Bottomless Crucible, Jackpot, Broodmother, Endless Blessing (auras take no passive slots) and Grand Design (a 4th Adjustment slot).",
+  "Block chance is now capped at 75% (Resolve raises it to 80%).",
+  "Game Guide: Attributes now lists every class stat, its breakpoints and capstones."
  ]
 }
