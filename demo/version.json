@@ -1,15 +1,14 @@
 {
- "version": "0.36.0",
- "title": "Class Stats",
- "pck": "demo/anthreyel-0.36.0.pck",
- "size": 8373672,
- "sha256": "f6364988514cbbd7e21acee60b69ec1f00d0567fa23805d778bd4b808970c22f",
+ "version": "0.37.0",
+ "title": "Peerless",
+ "pck": "demo/anthreyel-0.37.0.pck",
+ "size": 8408808,
+ "sha256": "dad484c9e9a9c1856dc20f2d7e7c90acde1063eff7cb57c8d64a46c137940ed0",
  "engine": "4.7.2",
  "notes": [
-  "Every class has an attribute of its own, the sixth row in the Attributes window (A): Devotion (Knight), Arcana (Mage), Cunning (Rogue), Resolve (Warden), Spirit (Shaman), Ingenuity (Artificer), Erudition (Alchemist), Luck (Jester), Matriarch (Drider) and Malice (Executioner). It's paid for from the same points and strengthens what the class does best.",
-  "Breakpoints at 25, 75 and 150 points add new tricks (for example: Hemorrhage stacks to 15, residue left in the Crucible, totems linking up, minions saved from death). Points past 100 count half and past 200 a quarter.",
-  "Capstones at 300 points you spent yourself: each class chooses one of two or three, switchable in camp. A few: The Last Sentence (execute bosses below 10%), Spellweaver (every spell echoes), Shadow Twin, Spirit Web, Bottomless Crucible, Jackpot, Broodmother, Endless Blessing (auras take no passive slots) and Grand Design (a 4th Adjustment slot).",
-  "Block chance is now capped at 75% (Resolve raises it to 80%).",
-  "Game Guide: Attributes now lists every class stat, its breakpoints and capstones."
+  "A secret waits at the very top of the mountain, for those who climb from Ascension 1 to 100 without ever falling. In co-op, everyone in the party has to have made the climb. New Game+ climbs count too.",
+  "Your climb is tracked from the moment you enter Ascension 1. Going up one Ascension at a time (or staying) keeps it; skipping ahead or dying ends it. Start again from Ascension 1 any time.",
+  "New weapon type: Halberds. Two-handed, long reach, and every swing sweeps through up to 3 enemies in front of you.",
+  "There is also a new secret class to unlock."
  ]
 }
