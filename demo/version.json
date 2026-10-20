@@ -1,14 +1,14 @@
 {
- "version": "0.37.0",
- "title": "Peerless",
- "pck": "demo/anthreyel-0.37.0.pck",
- "size": 8408808,
- "sha256": "dad484c9e9a9c1856dc20f2d7e7c90acde1063eff7cb57c8d64a46c137940ed0",
+ "version": "0.38.0",
+ "title": "Smash and Grab",
+ "pck": "demo/anthreyel-0.38.0.pck",
+ "size": 8431432,
+ "sha256": "2dd0cbab4e19d83362b1c3f816600f1ef39dd13ea73ad43eb2298c57e51cce9c",
  "engine": "4.7.2",
  "notes": [
-  "A secret waits at the very top of the mountain, for those who climb from Ascension 1 to 100 without ever falling. In co-op, everyone in the party has to have made the climb. New Game+ climbs count too.",
-  "Your climb is tracked from the moment you enter Ascension 1. Going up one Ascension at a time (or staying) keeps it; skipping ahead or dying ends it. Start again from Ascension 1 any time.",
-  "New weapon type: Halberds. Two-handed, long reach, and every swing sweeps through up to 3 enemies in front of you.",
-  "There is also a new secret class to unlock."
+  "Your loot is yours: in co-op every hero gets drops of their own, rolled with their own Magic Find. Nobody else sees them, so no more racing for loot. Items dropped on the ground by a hero are still for everyone (trading).",
+  "+Skills on gear now usually roll for your own class. When they don't, they roll for another class you've unlocked, never for one you haven't found yet.",
+  "Pots and chests: click to smash or open them. Gilded chests always hold something rare.",
+  "Every area has its own things to break open: Laboratory test pods (tonics, jewels, trinkets, and sometimes the specimen breaks out), egg sacs in the Mossy Caves, weapon racks in the Burning Halls, sarcophagi in the Crypts and frozen adventurers in the Frozen Heights."
  ]
 }
