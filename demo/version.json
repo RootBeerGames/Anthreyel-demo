@@ -1,13 +1,12 @@
 {
- "version": "0.35.1",
- "title": "Always Up to Date",
- "pck": "demo/anthreyel-0.35.1.pck",
- "size": 8334600,
- "sha256": "e510c05aa399eeab3e49340d314e8649261f89a427991aeebb7cfda8f18be7e5",
+ "version": "0.35.2",
+ "title": "Bad Blood",
+ "pck": "demo/anthreyel-0.35.2.pck",
+ "size": 8336728,
+ "sha256": "ea8f16c2059d347da24bd08bc25402f5b7e22acea15348896f26632483d8092a",
  "engine": "4.7.2",
  "notes": [
-  "Automatic updates: the demo checks for a new version when it starts. If there is one, the main menu shows \"Update available\" with what's new (hover it). Click Update now: it downloads just the game data (a few MB), restarts, and you're on the new version.",
-  "The game folder now has Anthreyel.exe plus Anthreyel.pck (the game itself). Keep them together.",
-  "Game Guide: a new About page with the version and credits."
+  "New Executioner passive: Bad Blood (Gallows). When you kill an enemy, its wounds leap in arcs of blood to up to 3 enemies within 6m: part of its Hemorrhage (half at first, more with levels) plus all your poison and venom on it. Stacks that land can push an enemy to 10 and Exsanguinate it, so one kill can ripple through a pack.",
+  "Bad Blood on hit (6%): the struck enemy's Hemorrhage jumps to the nearest enemy too, so a bleeding boss infects its adds."
  ]
 }
