@@ -1,11 +1,16 @@
 {
- "version": "0.38.1",
- "title": "Every Arrow Counts",
- "pck": "demo/anthreyel-0.38.1.pck",
- "size": 8432120,
- "sha256": "66068ff51f6b15c0f587d0b24a25df8ca8277586c098ea39e1daa4bd38995987",
+ "version": "0.39.0",
+ "title": "The Tree of Life",
+ "pck": "demo/anthreyel-0.39.0.pck",
+ "size": 8522168,
+ "sha256": "1fffb1bc49e6bab6a6cbfd4102451a892bc91f277b3ce477676e950727df80be",
  "engine": "4.7.2",
  "notes": [
-  "L\u00c3\u00bc Bu: Valor and Mounted Archery now raise all bow damage, plain bow shots as well as bow skills."
+  "New: the Tree of Life (L). From level 5 every level gives a Tree point. Every skill tree is a route of 10 Seeds, 5 Boughs and 3 Crowns: grow your main route and your class's passive route fully, and dabble in one more (3 Seeds and 1 Bough).",
+  "Seeds cost 1 point, Boughs 3 (after 3 Seeds of that route) and Crowns 6 (after 3 Boughs). Points you can't spend anywhere become Overgrowth: +1% damage each.",
+  "The class stat capstones moved into the Tree as Crowns, so you no longer need 300 points for them. If you had one, grow its Crown. More Crowns (and rune stones for the sockets) arrive in the next updates.",
+  "Every class stat breakpoint (25, 75, 150) now has two options: A (the original) or B (new). Pick them in the Tree's roots; switch in camp.",
+  "Resetting the Tree is free in camp, where you can also right-click a node to take it back.",
+  "Game Guide: a new Tree of Life page, and the class stat page lists both options of every breakpoint."
  ]
 }
