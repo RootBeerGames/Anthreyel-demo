@@ -1,14 +1,11 @@
 {
- "version": "0.38.0",
- "title": "Smash and Grab",
- "pck": "demo/anthreyel-0.38.0.pck",
- "size": 8431432,
- "sha256": "2dd0cbab4e19d83362b1c3f816600f1ef39dd13ea73ad43eb2298c57e51cce9c",
+ "version": "0.38.1",
+ "title": "Every Arrow Counts",
+ "pck": "demo/anthreyel-0.38.1.pck",
+ "size": 8432120,
+ "sha256": "66068ff51f6b15c0f587d0b24a25df8ca8277586c098ea39e1daa4bd38995987",
  "engine": "4.7.2",
  "notes": [
-  "Your loot is yours: in co-op every hero gets drops of their own, rolled with their own Magic Find. Nobody else sees them, so no more racing for loot. Items dropped on the ground by a hero are still for everyone (trading).",
-  "+Skills on gear now usually roll for your own class. When they don't, they roll for another class you've unlocked, never for one you haven't found yet.",
-  "Pots and chests: click to smash or open them. Gilded chests always hold something rare.",
-  "Every area has its own things to break open: Laboratory test pods (tonics, jewels, trinkets, and sometimes the specimen breaks out), egg sacs in the Mossy Caves, weapon racks in the Burning Halls, sarcophagi in the Crypts and frozen adventurers in the Frozen Heights."
+  "L\u00c3\u00bc Bu: Valor and Mounted Archery now raise all bow damage, plain bow shots as well as bow skills."
  ]
 }
