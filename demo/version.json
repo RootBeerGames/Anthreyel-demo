@@ -1,15 +1,14 @@
 {
- "version": "0.40.0",
- "title": "Rune Stones",
- "pck": "demo/anthreyel-0.40.0.pck",
- "size": 8570292,
- "sha256": "aefa937e018ffff5c58e642f0558d6b551dd5b20604202292832d0d47b8b171f",
+ "version": "0.40.1",
+ "title": "Leaf Bag",
+ "pck": "demo/anthreyel-0.40.1.pck",
+ "size": 8581636,
+ "sha256": "9614f4c66422d9fdcbef98d9546b66713f61b4d04a3e97fa70909f56018ec561",
  "engine": "4.7.2",
  "notes": [
-  "The Tree of Life window is drawn as the tree itself, inside a carved ring: Seeds are leaves along the limbs, Boughs golden fruit, Crowns blossoms at the top, and your class stat's breakpoints are its roots.",
-  "Hollows: every route has 3 hollows in the trunk (after 3 Seeds, after 2 Boughs, with the Crown). Opening one costs 1 Tree point; a minor route only gets the first.",
-  "Rune stones drop from monsters (carved ones from elites, bosses and gilded chests). Set one in a hollow and it bends every skill of that route: Widening, Lingering, Quickening, Echo, Twin, or an element rune that turns the route's damage into fire, ice, lightning, water, wind, holy, shadow, poison or earth. They come back out in camp.",
-  "New Crowns: Cruel Sun (Pyromancy), The Hand Descends and Warden's Gaze (Prayers), Hydrixa's Venom (Venomancy), Conclave and Choir (Spellwright) and Pile of Heads (Executioner's Creed).",
-  "Delthius is spoken of as \"they\", and the Game Guide tells of the Tree as it truly is: in the Realm of the Heavens, carrying the flow of rebirth."
+  "Tree of Life: easier on the eyes. The tree now shows only its slots (5 Seeds, 3 Boughs, 1 Crown and the 3 hollows). A Leaf Bag on the left holds the route's Seeds, Boughs and Crowns: drag one onto an empty slot of its kind to grow it (or double-click it).",
+  "A Rune Bag in the bottom right holds your rune stones: drag one onto an open hollow (on the trunk or in the Hollows row).",
+  "Alchemist: new True passive in Mixing, Self-Stirring Crucible. In a fight it pours one of your learned Mixes into the Crucible every few seconds, never one that would make the brew Unstable, for 150% of the Mix's mana, and your Potion hits deal a little more damage while it's on.",
+  "Every True passive (the Executioner's Creed and Self-Stirring Crucible) can now be switched off and on by right-clicking it in the skill tree."
  ]
 }
