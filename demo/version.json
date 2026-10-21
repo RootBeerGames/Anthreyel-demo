@@ -1,16 +1,13 @@
 {
- "version": "0.39.0",
- "title": "The Tree of Life",
- "pck": "demo/anthreyel-0.39.0.pck",
- "size": 8522168,
- "sha256": "1fffb1bc49e6bab6a6cbfd4102451a892bc91f277b3ce477676e950727df80be",
+ "version": "0.39.1",
+ "title": "The Living Gods",
+ "pck": "demo/anthreyel-0.39.1.pck",
+ "size": 8523864,
+ "sha256": "f3dce4d156fd36239d14ea1a46c6e75d538776b8f2c87f9eb2601a3947a17fd8",
  "engine": "4.7.2",
  "notes": [
-  "New: the Tree of Life (L). From level 5 every level gives a Tree point. Every skill tree is a route of 10 Seeds, 5 Boughs and 3 Crowns: grow your main route and your class's passive route fully, and dabble in one more (3 Seeds and 1 Bough).",
-  "Seeds cost 1 point, Boughs 3 (after 3 Seeds of that route) and Crowns 6 (after 3 Boughs). Points you can't spend anywhere become Overgrowth: +1% damage each.",
-  "The class stat capstones moved into the Tree as Crowns, so you no longer need 300 points for them. If you had one, grow its Crown. More Crowns (and rune stones for the sockets) arrive in the next updates.",
-  "Every class stat breakpoint (25, 75, 150) now has two options: A (the original) or B (new). Pick them in the Tree's roots; switch in camp.",
-  "Resetting the Tree is free in camp, where you can also right-click a node to take it back.",
-  "Game Guide: a new Tree of Life page, and the class stat page lists both options of every breakpoint."
+  "The Holy Knight's prayers now call on the living gods by their true names: Celmiss, the Mother (Dawn's Mercy, Dawnbreak), Cevel, the Judge (Iron Verdict, Chains of Cevel), Gaeliel, the Storm King (Wrath of Gaeliel, Gaeliel's Embrace), Gulthus, god of the Dead (Gulthus's Bargain, Grave Tide) and Delthius, god of Fortunes (Delthius's Gamble). The prayers work exactly as before.",
+  "Items named for the gods follow, including ones you already own: Echo of Gulthus, Delthius's Loaded Die, Gaeliel's Captive Storm, Splinter of the Storm King, Banner of the Judge and the Judge's Bolt Case.",
+  "The god waiting at the summit is the Pretender: the false god who raised the mountain over the Tree of Life."
  ]
 }
