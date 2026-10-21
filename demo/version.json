@@ -1,13 +1,15 @@
 {
- "version": "0.39.1",
- "title": "The Living Gods",
- "pck": "demo/anthreyel-0.39.1.pck",
- "size": 8523864,
- "sha256": "f3dce4d156fd36239d14ea1a46c6e75d538776b8f2c87f9eb2601a3947a17fd8",
+ "version": "0.40.0",
+ "title": "Rune Stones",
+ "pck": "demo/anthreyel-0.40.0.pck",
+ "size": 8570292,
+ "sha256": "aefa937e018ffff5c58e642f0558d6b551dd5b20604202292832d0d47b8b171f",
  "engine": "4.7.2",
  "notes": [
-  "The Holy Knight's prayers now call on the living gods by their true names: Celmiss, the Mother (Dawn's Mercy, Dawnbreak), Cevel, the Judge (Iron Verdict, Chains of Cevel), Gaeliel, the Storm King (Wrath of Gaeliel, Gaeliel's Embrace), Gulthus, god of the Dead (Gulthus's Bargain, Grave Tide) and Delthius, god of Fortunes (Delthius's Gamble). The prayers work exactly as before.",
-  "Items named for the gods follow, including ones you already own: Echo of Gulthus, Delthius's Loaded Die, Gaeliel's Captive Storm, Splinter of the Storm King, Banner of the Judge and the Judge's Bolt Case.",
-  "The god waiting at the summit is the Pretender: the false god who raised the mountain over the Tree of Life."
+  "The Tree of Life window is drawn as the tree itself, inside a carved ring: Seeds are leaves along the limbs, Boughs golden fruit, Crowns blossoms at the top, and your class stat's breakpoints are its roots.",
+  "Hollows: every route has 3 hollows in the trunk (after 3 Seeds, after 2 Boughs, with the Crown). Opening one costs 1 Tree point; a minor route only gets the first.",
+  "Rune stones drop from monsters (carved ones from elites, bosses and gilded chests). Set one in a hollow and it bends every skill of that route: Widening, Lingering, Quickening, Echo, Twin, or an element rune that turns the route's damage into fire, ice, lightning, water, wind, holy, shadow, poison or earth. They come back out in camp.",
+  "New Crowns: Cruel Sun (Pyromancy), The Hand Descends and Warden's Gaze (Prayers), Hydrixa's Venom (Venomancy), Conclave and Choir (Spellwright) and Pile of Heads (Executioner's Creed).",
+  "Delthius is spoken of as \"they\", and the Game Guide tells of the Tree as it truly is: in the Realm of the Heavens, carrying the flow of rebirth."
  ]
 }
