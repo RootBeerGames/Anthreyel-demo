@@ -1,16 +1,15 @@
 {
- "version": "0.41.0",
- "title": "The Nine Gods",
- "pck": "demo/anthreyel-0.41.0.pck",
- "size": 8612240,
- "sha256": "744bc646d359caff940909b0396dd5db64bd19ce56432a22946316d34ed6f760",
+ "version": "0.42.0",
+ "title": "Crowns of Steel",
+ "pck": "demo/anthreyel-0.42.0.pck",
+ "size": 8637328,
+ "sha256": "8adb0f99638f1ea49ce3111add670b3f67abf8bee127ea083ebd233ab35d8d12",
  "engine": "4.7.2",
  "notes": [
-  "Holy Knight, Aura weaving: run two or more elemental holy auras and they weave into one woven aura. Each keeps 75% of its effect, and the loom pulses their pairs' reactions on enemies around you (more threads, more pairs, stronger pulses).",
-  "Prayers to four more gods: Mvrow (Call of the Pack, The Great Stag), Lifius (Lifius's Sapling, Rebirth), Obliveion (Unmaking, Null Field) and Kryuleiza (Kryuleiza's Rift, Void Embrace). Delthius has a second prayer too: Delthius's Wheel. Every god now has two prayers.",
-  "Devotion: every prayer builds standing with its god. At 10, 30 and 60 the god counts you Heard, Favoured and Chosen: stronger prayers and Favor. Rival gods cool when you pray to the other.",
-  "Litanies: call two different gods within 4s and some pairs answer together, nine in all (Cycle of Rebirth, Storm of Judgment, The Mother's Pack...). Rival pairs are strong but cost blood.",
-  "Shrines to the gods appear in many Ascensions: kneel for Devotion and a blessing, or desecrate one for its offerings (its rival approves; its god does not).",
-  "Prayer Beads: a new amulet that changes your prayers (prayers that echo, longer Favor, one god's prayers sooner, double Devotion, longer and stronger Litanies, or Zeal)."
+  "Every Crown of the Holy Knight, Warden, Executioner and L\u00c3\u00bc Bu can now be grown in the Tree of Life: 34 new ones.",
+  "Holy Knight: Sanctuary (a dome where no one can fall), The Mother's Embrace (heals echo), Saint (heals smite), Storm of Steel (spectral swords), Avatar of the Elements, Radiant Avatar (auras reach farther and blind) and Choir of Light (each aura protects and strengthens allies).",
+  "Warden: Aegis Storm, Unstoppable, Captain's Throw, Crown of Thorns, Living Hedge, Last Stand, Phalanx (allies use your block chance), Rooted Fortress, Monolith and World Tree's Bark.",
+  "Executioner: Guillotine, Headsman's Verdict (Condemned enemies are easier to execute and count as 3 kills), Gibbet, Chain Gang, Witch Hunt, Ash Saint, Death's Ledger and The Executioner's Oath.",
+  "L\u00c3\u00bc Bu: Crescent Moon, Heaven Piercer, Sky Full of Arrows, Divine Archer (homing arrows), Parthian Volley, A Thousand Li, Unmatched, General's Leap and None Can Stand."
  ]
 }
