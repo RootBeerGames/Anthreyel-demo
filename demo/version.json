@@ -1,14 +1,16 @@
 {
- "version": "0.40.1",
- "title": "Leaf Bag",
- "pck": "demo/anthreyel-0.40.1.pck",
- "size": 8581636,
- "sha256": "9614f4c66422d9fdcbef98d9546b66713f61b4d04a3e97fa70909f56018ec561",
+ "version": "0.41.0",
+ "title": "The Nine Gods",
+ "pck": "demo/anthreyel-0.41.0.pck",
+ "size": 8612240,
+ "sha256": "744bc646d359caff940909b0396dd5db64bd19ce56432a22946316d34ed6f760",
  "engine": "4.7.2",
  "notes": [
-  "Tree of Life: easier on the eyes. The tree now shows only its slots (5 Seeds, 3 Boughs, 1 Crown and the 3 hollows). A Leaf Bag on the left holds the route's Seeds, Boughs and Crowns: drag one onto an empty slot of its kind to grow it (or double-click it).",
-  "A Rune Bag in the bottom right holds your rune stones: drag one onto an open hollow (on the trunk or in the Hollows row).",
-  "Alchemist: new True passive in Mixing, Self-Stirring Crucible. In a fight it pours one of your learned Mixes into the Crucible every few seconds, never one that would make the brew Unstable, for 150% of the Mix's mana, and your Potion hits deal a little more damage while it's on.",
-  "Every True passive (the Executioner's Creed and Self-Stirring Crucible) can now be switched off and on by right-clicking it in the skill tree."
+  "Holy Knight, Aura weaving: run two or more elemental holy auras and they weave into one woven aura. Each keeps 75% of its effect, and the loom pulses their pairs' reactions on enemies around you (more threads, more pairs, stronger pulses).",
+  "Prayers to four more gods: Mvrow (Call of the Pack, The Great Stag), Lifius (Lifius's Sapling, Rebirth), Obliveion (Unmaking, Null Field) and Kryuleiza (Kryuleiza's Rift, Void Embrace). Delthius has a second prayer too: Delthius's Wheel. Every god now has two prayers.",
+  "Devotion: every prayer builds standing with its god. At 10, 30 and 60 the god counts you Heard, Favoured and Chosen: stronger prayers and Favor. Rival gods cool when you pray to the other.",
+  "Litanies: call two different gods within 4s and some pairs answer together, nine in all (Cycle of Rebirth, Storm of Judgment, The Mother's Pack...). Rival pairs are strong but cost blood.",
+  "Shrines to the gods appear in many Ascensions: kneel for Devotion and a blessing, or desecrate one for its offerings (its rival approves; its god does not).",
+  "Prayer Beads: a new amulet that changes your prayers (prayers that echo, longer Favor, one god's prayers sooner, double Devotion, longer and stronger Litanies, or Zeal)."
  ]
 }
