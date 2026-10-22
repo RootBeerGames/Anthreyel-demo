@@ -1,15 +1,15 @@
 {
- "version": "0.42.0",
- "title": "Crowns of Steel",
- "pck": "demo/anthreyel-0.42.0.pck",
- "size": 8637328,
- "sha256": "8adb0f99638f1ea49ce3111add670b3f67abf8bee127ea083ebd233ab35d8d12",
+ "version": "0.43.0",
+ "title": "Crowns of Craft",
+ "pck": "demo/anthreyel-0.43.0.pck",
+ "size": 8673708,
+ "sha256": "34729cb216e8ec24a7565883c6a16152dc66c27f0f9e2a26c2bb15742646a316",
  "engine": "4.7.2",
  "notes": [
-  "Every Crown of the Holy Knight, Warden, Executioner and L\u00c3\u00bc Bu can now be grown in the Tree of Life: 34 new ones.",
-  "Holy Knight: Sanctuary (a dome where no one can fall), The Mother's Embrace (heals echo), Saint (heals smite), Storm of Steel (spectral swords), Avatar of the Elements, Radiant Avatar (auras reach farther and blind) and Choir of Light (each aura protects and strengthens allies).",
-  "Warden: Aegis Storm, Unstoppable, Captain's Throw, Crown of Thorns, Living Hedge, Last Stand, Phalanx (allies use your block chance), Rooted Fortress, Monolith and World Tree's Bark.",
-  "Executioner: Guillotine, Headsman's Verdict (Condemned enemies are easier to execute and count as 3 kills), Gibbet, Chain Gang, Witch Hunt, Ash Saint, Death's Ledger and The Executioner's Oath.",
-  "L\u00c3\u00bc Bu: Crescent Moon, Heaven Piercer, Sky Full of Arrows, Divine Archer (homing arrows), Parthian Volley, A Thousand Li, Unmatched, General's Leap and None Can Stand."
+  "Every Crown of the Rogue, Shaman, Artificer and Alchemist can now be grown in the Tree of Life: 41 new ones.",
+  "Rogue: Unseen (3 critical hits out of Vanish without breaking it), Night Walker (Shadow Step leaves a fighting shadow), Blade Dance, Death by a Thousand (the hit streak lasts until you're hit; every 50th hit is a triple crit), Twin Storm (both blades at full damage), Killing Field, Clockwork Sentries, Plague Lord, Black Lotus, The Contract, Death Mark and Brand of Many.",
+  "Shaman: Storm Circle, Mvrow's Hunt (a spirit beast runs your totems), Mountain's Fall, Living Earth, Lifius's Grove, Evergreen (heals over time last while allies stay near), Foresight (the first hit of a telegraphed attack misses), The Spirits Know and Fate's Thread.",
+  "Artificer: Fortress Line, Junk Titan, Sentry Grid, Colossus, Swarm Logic, Mech Suit, Redline, Power Grid, Clockwork Heart and Prototype (a new experimental gadget every Ascension).",
+  "Alchemist: Masterwork, Twin Crucibles, Cluster Bomb, Endless Reaction, Lingering Reaction, Apex Mutation (three Mutagens at once), Elixir of Many, Golden Touch, Masterpiece and Perfect Distillation (unstable brews react in full, twice as wide)."
  ]
 }
