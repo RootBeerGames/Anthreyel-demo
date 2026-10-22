@@ -1,15 +1,14 @@
 {
- "version": "0.43.0",
- "title": "Crowns of Craft",
- "pck": "demo/anthreyel-0.43.0.pck",
- "size": 8673708,
- "sha256": "34729cb216e8ec24a7565883c6a16152dc66c27f0f9e2a26c2bb15742646a316",
+ "version": "0.43.1",
+ "title": "The Way Down",
+ "pck": "demo/anthreyel-0.43.1.pck",
+ "size": 8680252,
+ "sha256": "632b578482ebd197b9a3495c48063993058e6de24db02078c7475bcd17fae6b6",
  "engine": "4.7.2",
  "notes": [
-  "Every Crown of the Rogue, Shaman, Artificer and Alchemist can now be grown in the Tree of Life: 41 new ones.",
-  "Rogue: Unseen (3 critical hits out of Vanish without breaking it), Night Walker (Shadow Step leaves a fighting shadow), Blade Dance, Death by a Thousand (the hit streak lasts until you're hit; every 50th hit is a triple crit), Twin Storm (both blades at full damage), Killing Field, Clockwork Sentries, Plague Lord, Black Lotus, The Contract, Death Mark and Brand of Many.",
-  "Shaman: Storm Circle, Mvrow's Hunt (a spirit beast runs your totems), Mountain's Fall, Living Earth, Lifius's Grove, Evergreen (heals over time last while allies stay near), Foresight (the first hit of a telegraphed attack misses), The Spirits Know and Fate's Thread.",
-  "Artificer: Fortress Line, Junk Titan, Sentry Grid, Colossus, Swarm Logic, Mech Suit, Redline, Power Grid, Clockwork Heart and Prototype (a new experimental gadget every Ascension).",
-  "Alchemist: Masterwork, Twin Crucibles, Cluster Bomb, Endless Reaction, Lingering Reaction, Apex Mutation (three Mutagens at once), Elixir of Many, Golden Touch, Masterpiece and Perfect Distillation (unstable brews react in full, twice as wide)."
+  "The Way Down: a worn stairwell beside where you arrive in every Ascension. It takes the party back down to the camp below, and the Ascension stays exactly as you left it (loot on the ground, broken pots and chests, the guardian dead or alive). From a camp, the Way Down takes you back to the Ascension you just left, right at its stairs. So if you take the stairs up by accident, nothing is lost. The last 3 Ascensions are remembered until you quit.",
+  "Reroll an Ascension: the Way Down can also make the Ascension you're in anew (a new layout, new monsters, its guardian again). Anything left on the ground there is lost.",
+  "Each camp is the same camp every time you come back to it (the same stock), so going up and down doesn't reroll the shops.",
+  "The secret at the top: the deathless climb now counts from Ascension 50, not Ascension 1. Climb from 50 to 100 without a single death (every hero in the party) and L\u00c3\u00bc Bu waits at the summit. Deaths below 50 don't count, and going back down doesn't break the climb (skipping ahead still does). A climb already under way still counts."
  ]
 }
