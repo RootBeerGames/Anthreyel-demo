@@ -1,14 +1,13 @@
 {
- "version": "0.44.0",
- "title": "Crowns of Sorcery",
- "pck": "demo/anthreyel-0.44.0.pck",
- "size": 8702536,
- "sha256": "eac8c9110f1ba8757614daf1aa19fd8e830a7cabb6f86f37f8bb41d240d398db",
+ "version": "0.45.0",
+ "title": "The Full Canopy",
+ "pck": "demo/anthreyel-0.45.0.pck",
+ "size": 8727332,
+ "sha256": "6cdd179d56facadb8892ce96e6d24a4a3a9aa47528f73c975a163943667f6277",
  "engine": "4.7.2",
  "notes": [
-  "Every Mage Crown can now be grown in the Tree of Life: 25 new ones across the eight schools and Wild Magic.",
-  "Pyromancy: Phoenix (once per Ascension, rise in flame instead of dying) and Living Flame (fire orbs circle you). Cryomancy: Absolute Zero, Crown of Spears and Eternal Winter. Stormcalling: Eye of the Storm, Ride the Lightning and The Storm King's Stroke.",
-  "Arcane: Timeweaver (your last 3 spells again, free) and Singularity. Tidecalling: Leviathan, Tsunami and Drowned World. Windweaving: Eye of the Hurricane (enemy shots are blown away), Skyborne and Thousand Blades.",
-  "Lightbinding: Celestial Lance, Dawnbringer (a little sun follows you) and Martyr's Prism. Voidcalling: Event Horizon, Kryuleiza's Gate and Hollow Self. Wild Magic: Chaos Engine, Pandemonium and Wheel of Fortune."
+  "The Tree of Life is complete: every Crown of every class can be grown. The last 37 are the Jester's and the Drider's.",
+  "Jester: Three-Ring Circus, The Fool's Parade, Showstopper, Usurper's Crown, The Fool Is King, Weighted, Delthius's Smile, Royal Flush, Full House, Card Storm, Standing Ovation, Laughingstock, Roast of the Century, Encore from the Grave (a killing blow leaves you a laughing skeleton until you get a kill), Bone Storm, Headless Fool (your head casts along with you), Divine Fool, Lucky Disaster, The Fool's Errand (a silly task each Ascension), The Rules Are Wrong, Everyone's a Fool and King of Fools.",
+  "Drider: Ossuary, Bone Colossus, Lord of the Grave, Queen's Guard, Hive Mind, Apex Hunt, Eight-Fold Strike, Ambush Queen, Toxic Tide, Wrapped, Endless Web, Puppeteer, Brood Unbreakable, Matriarch's Will and Venom Brood."
  ]
 }
