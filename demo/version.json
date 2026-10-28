@@ -1,14 +1,14 @@
 {
- "version": "0.43.1",
- "title": "The Way Down",
- "pck": "demo/anthreyel-0.43.1.pck",
- "size": 8680252,
- "sha256": "632b578482ebd197b9a3495c48063993058e6de24db02078c7475bcd17fae6b6",
+ "version": "0.44.0",
+ "title": "Crowns of Sorcery",
+ "pck": "demo/anthreyel-0.44.0.pck",
+ "size": 8702536,
+ "sha256": "eac8c9110f1ba8757614daf1aa19fd8e830a7cabb6f86f37f8bb41d240d398db",
  "engine": "4.7.2",
  "notes": [
-  "The Way Down: a worn stairwell beside where you arrive in every Ascension. It takes the party back down to the camp below, and the Ascension stays exactly as you left it (loot on the ground, broken pots and chests, the guardian dead or alive). From a camp, the Way Down takes you back to the Ascension you just left, right at its stairs. So if you take the stairs up by accident, nothing is lost. The last 3 Ascensions are remembered until you quit.",
-  "Reroll an Ascension: the Way Down can also make the Ascension you're in anew (a new layout, new monsters, its guardian again). Anything left on the ground there is lost.",
-  "Each camp is the same camp every time you come back to it (the same stock), so going up and down doesn't reroll the shops.",
-  "The secret at the top: the deathless climb now counts from Ascension 50, not Ascension 1. Climb from 50 to 100 without a single death (every hero in the party) and L\u00c3\u00bc Bu waits at the summit. Deaths below 50 don't count, and going back down doesn't break the climb (skipping ahead still does). A climb already under way still counts."
+  "Every Mage Crown can now be grown in the Tree of Life: 25 new ones across the eight schools and Wild Magic.",
+  "Pyromancy: Phoenix (once per Ascension, rise in flame instead of dying) and Living Flame (fire orbs circle you). Cryomancy: Absolute Zero, Crown of Spears and Eternal Winter. Stormcalling: Eye of the Storm, Ride the Lightning and The Storm King's Stroke.",
+  "Arcane: Timeweaver (your last 3 spells again, free) and Singularity. Tidecalling: Leviathan, Tsunami and Drowned World. Windweaving: Eye of the Hurricane (enemy shots are blown away), Skyborne and Thousand Blades.",
+  "Lightbinding: Celestial Lance, Dawnbringer (a little sun follows you) and Martyr's Prism. Voidcalling: Event Horizon, Kryuleiza's Gate and Hollow Self. Wild Magic: Chaos Engine, Pandemonium and Wheel of Fortune."
  ]
 }
