@@ -1,14 +1,14 @@
 {
- "version": "0.46.0",
- "title": "Artifacts of the Dead Gods",
- "pck": "demo/anthreyel-0.46.0.pck",
- "size": 8747588,
- "sha256": "5ff94bdcb16a58e13bba83df57a5eddf7c632d2f62d5d97fbb2d32842ab90f25",
+ "version": "0.47.0",
+ "title": "The Way Down to Nothing",
+ "pck": "demo/anthreyel-0.47.0.pck",
+ "size": 8766068,
+ "sha256": "189a6f8798bd48e71d7dba2d32a184d05a11e0e486bd2d33d9d8b185aad6935e",
  "engine": "4.7.2",
  "notes": [
-  "Artifacts: 13 new trinkets, things the dead gods owned or used but weren't known for, each still holding a little of its god. Kryu's Primer (half your damage becomes Void: holy and shadow at once), Feeding Bowl of Kryu, Kryu's Lantern, Gylvor's Morningstar, Gylvor's Inkwell, Gylvor's Seal Ring, Vyl's Hourglass, Vyl's Abacus, Vyl's Garden Shears, XyloFel's Potter's Wheel, XyloFel's Chisel, XyloFel's Kiln Ember (spiralling embers for fire builds) and XyloFel's Sample Jar. Large or Grand in size, they change how a build plays. One of each counts.",
-  "Super Unique Trinkets are much smaller: 2x4 instead of 2x9 (yours shrink too), so there's room for other trinkets around them. Their stats count at 80% to make up for it; granted skills and auras are unchanged.",
-  "The same skill or aura from more than one trinket now stacks: the levels add up (two trinkets granting Fireball 4 give Fireball 8). Auras merge into one stronger aura, Brood charms' minion auras too.",
-  "Artifacts drop from item level 30 (about Ascension 10) and from guardians."
+  "Artifacts of the living gods: 9 more, one from each living god. Celmiss's Sewing Needle (overhealing is stitched into a shield), Cevel's Glass Eye (a floating eye: 25% of your damage echoes onto the same target), Gaeliel's Wind Chime (every 5th hit calls lightning onto everything you've just hit), Delthius's Tea Set (every 30s a reading names an element: that damage is doubled), Gulthus's Gardening Gloves (kills plant grave-flowers that heal allies and poison enemies), Mvrow's Collar (your oldest summon, or a spirit hound, strikes what you strike and can't die while you live), Kryuleiza's Mirror (a big hit summons a mirror image that casts what you cast), Lifius's Watering Can (healing grows a sapling that boosts your damage) and The Truth of Nothingness.",
+  "The Truth of Nothingness, Obliveion's scroll: 15% of the damage you'd take is simply erased (before resistances; one scroll counts), and what you kill leaves no corpse. And it hides a secret: \"Find the way down to me.\"",
+  "The Negative Ascensions: with the scroll, the Way Down at Ascension 1 goes further down, to Ascension -1 and on to -100, where reality is breaking. They are harder than the climb above, between them lie hollow camps (an altar and a stash, nothing living), and they don't count toward the climb. At Ascension -100, something waits for you.",
+  "The Mystic's window now opens beside your Trinket Pouch, instead of listing every charm in a long column: right-click a charm in the pouch to put it on her altar."
  ]
 }
