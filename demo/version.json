@@ -1,16 +1,17 @@
 {
- "version": "0.49.0",
- "title": "Orbs of Concept and the Divine Ones",
- "pck": "demo/anthreyel-0.49.0.pck",
- "size": 8883828,
- "sha256": "41880ad33375f2e6e7c2b948b8658ce58b7c00232117486aed8248c58bb76e99",
+ "version": "0.50.0",
+ "title": "The Sollari",
+ "pck": "demo/anthreyel-0.50.0.pck",
+ "size": 8968344,
+ "sha256": "e235fb8ef78492cc6d2524fb9bd5460a98d1b0d3f8210ca54587049b74eded9d",
  "engine": "4.7.2",
  "notes": [
-  "Orbs of Concept: a glass sphere holding a living god's idea, one for each of the nine. An off-hand for any class (not with a two-handed weapon): its god's own stats, 3 more affixes than anything else of its rarity, spell damage like a tome, and its god's concept as its effect. The Orb of Nothingness rolls Null affixes (Null damage on hits, damage added as Null, a chance to strip a buff, damage taken erased). Any drop has a 1 in 1000 chance to be one, and you'll know when it happens.",
-  "The Divine Ones: from Ascension 3, one of nine servants of the living gods may walk an Ascension, with two Champions. Each fights in its own way (Cevel's Bailiff judges one hero, Gaeliel's Stormcaller crosses the room with lightning, Gulthus's Gravekeeper raises the dead, Delthius's Gambler flips a coin...). They drop Orbs of Concept 20 times as often, their own god's most of all.",
-  "New enemies for every zone, each with a move of its own: Leaking Specimens and Laboratory Wardens (shield up front), Cave Burrowers, Spore Puffs and Moss Shamans, Ember Bulls (they charge) and Cinder Mortars, Crypt Wraiths and Bone Piles (they get back up, once), Frost Archers and Ice Yetis.",
-  "The old enemies learned something too: Gutter Imps hop away, Bone Warriors raise a guard, Rotting Ghouls lunge, Grave Hounds howl each other faster and Pit Brutes slam the ground.",
-  "Every affix now shows the range it could have rolled at that item level, e.g. +85 to Life (5-85), so you can see how good a roll is.",
-  "The Herald of Nothingness doesn't lose what it consumes anymore: in camp, right-click something in the Consumed box to spit it back into your bag. Orbs of Concept count at 80% inside it (the Orb of Nothingness whole)."
+  "A new starting class: the Sollari, living humanoid stars in a body of glowing plasma, with a bright core in the chest and a corona of flame for hair. Pick a star colour (pink too), male, female or genderless, and what they wear: a skirt, an outfit or a uniform. Sculpted from the ground up, not the old body shape. Their lore is still to come.",
+  "On-hit chains: most of their skills are effects that go off on your hits by chance, each dealing a share of the hit, and their hits can set off your other effects in turn. Each effect goes off once per chain, a chain goes one link deeper than you have passive slots, each link deals 80%, and no proc deals more than 3x your base damage. Echoes make an effect go off twice.",
+  "Breaking the Limit: each theme tree has one Limit Break effect (Ricochet, Collapse, Fusion, Chain Reaction, Kinetic Transfer, Double Shadow, Resonance). They take a passive slot, can deal up to 6x and go off past the depth limit.",
+  "Fuel instead of mana: 100, refilling 3 a second, and kills feed it. Press X to Overload (+30% attack and cast speed, +25% proc chance, but it burns fuel). Below 30% you slow down; at 0 you Burn Out as a dim White Dwarf for 4s, then rekindle.",
+  "Eight trees: Light, Gravity, Solar Flare, Nebula (Radioactivity: stacks with a half-life that contaminate their neighbours and reach Critical Mass), Comet (Dry Ice: stacks that slow, sublimate into freezing fog and shatter on an Impact), Eclipse (Shadow Echoes that Align), Pulsar (a Pulse on every 4th hit, never by chance) and the Stellar Core. Class stat: Luminosity. 24 Crowns on the Tree of Life, and Aligned Boughs: in camp, click a grown Bough to point it at any theme.",
+  "On-hit gear for every class: Rare and Legendary rings, amulets, gloves and weapons can roll an on-hit effect (Lightning Arc, Fire Burst, Frost Nova, Seeking Bolt, Shadow Strike, Gravity Pull). Three Uniques carry Limit-Breaking ones that take no slot: The Falling Star, Photon Weave and the Hourglass of Echoes.",
+  "Create a Hero: the body choices sit on their own row now."
  ]
 }
