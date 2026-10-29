@@ -1,15 +1,16 @@
 {
- "version": "0.48.0",
- "title": "The Herald of Nothingness",
- "pck": "demo/anthreyel-0.48.0.pck",
- "size": 8841532,
- "sha256": "e420b51d54f7143b1f9dc44954d78d2d1f9bc9e8c4fec654b8dbf58c31abcee7",
+ "version": "0.49.0",
+ "title": "Orbs of Concept and the Divine Ones",
+ "pck": "demo/anthreyel-0.49.0.pck",
+ "size": 8883828,
+ "sha256": "41880ad33375f2e6e7c2b948b8658ce58b7c00232117486aed8248c58bb76e99",
  "engine": "4.7.2",
  "notes": [
-  "A new class: the Herald of Nothingness, Obliveion's herald. A gooey, thinking slime with a mouth full of tiny sharp teeth; pick its colour when you make one. Beat the Herald of Obliveion at Ascension -100 to unlock it.",
-  "Null: a new damage type. Nothing resists it and nothing can shred it, it carries no element (no reactions), and on a hero armor doesn't stop it (a block does). Its numbers are hollow. The Herald of Obliveion's erasures are Null now.",
-  "No gear: the Herald wears and wields nothing. It consumes gear (right-click it in your bag): the item is gone for good and its stats count at 50%. Its Teeth grow with your level or your best consumed weapon. Uniques and other good gear ask for a second right-click first.",
-  "Five trees. The Maw eats the elements on enemies and hits with them; every Maw, Hollow and Proclamation hit adds 25% of itself again as Null. The Unmaking is a pure Null caster that strips buffs, wards and whole affixes. The Hollow is the slime itself (Engulf, Seep, Re-form, Everything Becomes Nothing). The Proclamation silences, names and supports the party. Purity's True passives push the added Null to 100%.",
-  "Its class stat is Emptiness, and each tree has its route of Seeds, Boughs and three Crowns on the Tree of Life."
+  "Orbs of Concept: a glass sphere holding a living god's idea, one for each of the nine. An off-hand for any class (not with a two-handed weapon): its god's own stats, 3 more affixes than anything else of its rarity, spell damage like a tome, and its god's concept as its effect. The Orb of Nothingness rolls Null affixes (Null damage on hits, damage added as Null, a chance to strip a buff, damage taken erased). Any drop has a 1 in 1000 chance to be one, and you'll know when it happens.",
+  "The Divine Ones: from Ascension 3, one of nine servants of the living gods may walk an Ascension, with two Champions. Each fights in its own way (Cevel's Bailiff judges one hero, Gaeliel's Stormcaller crosses the room with lightning, Gulthus's Gravekeeper raises the dead, Delthius's Gambler flips a coin...). They drop Orbs of Concept 20 times as often, their own god's most of all.",
+  "New enemies for every zone, each with a move of its own: Leaking Specimens and Laboratory Wardens (shield up front), Cave Burrowers, Spore Puffs and Moss Shamans, Ember Bulls (they charge) and Cinder Mortars, Crypt Wraiths and Bone Piles (they get back up, once), Frost Archers and Ice Yetis.",
+  "The old enemies learned something too: Gutter Imps hop away, Bone Warriors raise a guard, Rotting Ghouls lunge, Grave Hounds howl each other faster and Pit Brutes slam the ground.",
+  "Every affix now shows the range it could have rolled at that item level, e.g. +85 to Life (5-85), so you can see how good a roll is.",
+  "The Herald of Nothingness doesn't lose what it consumes anymore: in camp, right-click something in the Consumed box to spit it back into your bag. Orbs of Concept count at 80% inside it (the Orb of Nothingness whole)."
  ]
 }
