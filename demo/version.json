@@ -1,17 +1,13 @@
 {
- "version": "0.50.0",
- "title": "The Sollari",
- "pck": "demo/anthreyel-0.50.0.pck",
- "size": 8968344,
- "sha256": "e235fb8ef78492cc6d2524fb9bd5460a98d1b0d3f8210ca54587049b74eded9d",
+ "version": "0.50.1",
+ "title": "Sculpted Foes",
+ "pck": "demo/anthreyel-0.50.1.pck",
+ "size": 8996504,
+ "sha256": "6accd4705a4e37d0fce6c6cb30ce4525f272c9534b475988066d4cd622e51d28",
  "engine": "4.7.2",
  "notes": [
-  "A new starting class: the Sollari, living humanoid stars in a body of glowing plasma, with a bright core in the chest and a corona of flame for hair. Pick a star colour (pink too), male, female or genderless, and what they wear: a skirt, an outfit or a uniform. Sculpted from the ground up, not the old body shape. Their lore is still to come.",
-  "On-hit chains: most of their skills are effects that go off on your hits by chance, each dealing a share of the hit, and their hits can set off your other effects in turn. Each effect goes off once per chain, a chain goes one link deeper than you have passive slots, each link deals 80%, and no proc deals more than 3x your base damage. Echoes make an effect go off twice.",
-  "Breaking the Limit: each theme tree has one Limit Break effect (Ricochet, Collapse, Fusion, Chain Reaction, Kinetic Transfer, Double Shadow, Resonance). They take a passive slot, can deal up to 6x and go off past the depth limit.",
-  "Fuel instead of mana: 100, refilling 3 a second, and kills feed it. Press X to Overload (+30% attack and cast speed, +25% proc chance, but it burns fuel). Below 30% you slow down; at 0 you Burn Out as a dim White Dwarf for 4s, then rekindle.",
-  "Eight trees: Light, Gravity, Solar Flare, Nebula (Radioactivity: stacks with a half-life that contaminate their neighbours and reach Critical Mass), Comet (Dry Ice: stacks that slow, sublimate into freezing fog and shatter on an Impact), Eclipse (Shadow Echoes that Align), Pulsar (a Pulse on every 4th hit, never by chance) and the Stellar Core. Class stat: Luminosity. 24 Crowns on the Tree of Life, and Aligned Boughs: in camp, click a grown Bough to point it at any theme.",
-  "On-hit gear for every class: Rare and Legendary rings, amulets, gloves and weapons can roll an on-hit effect (Lightning Arc, Fire Burst, Frost Nova, Seeking Bolt, Shadow Strike, Gravity Pull). Three Uniques carry Limit-Breaking ones that take no slot: The Falling Star, Photon Weave and the Hourglass of Echoes.",
-  "Create a Hero: the body choices sit on their own row now."
+  "The zone enemies are sculpted now, not pill shapes: the Leaking Specimen (a half-melted body of glowing goo with its IV tubes still in), the Laboratory Warden (riveted plate, a lamp on the helm, a striped tower shield), the Cave Burrower (a ringed grub with a drill of a snout), the Spore Puff and its Sporelets (with gills, spots and a haze of spores), the Moss Shaman (a cloak of moss and ferns, a bone mask), the Ember Bull (rock with glowing seams of fire), the Cinder Mortar (a stone crab with a smoking chimney), the Crypt Wraith (a tattered shroud of light), the Frost Archer (a fur-trimmed parka and a bow of ice) and the Ice Yeti (shaggy, horned and tusked).",
+  "The Divine Ones too: long robes, mantles and bell sleeves, real faces (Obliveion's Blank has none), and each one's mark: Cevel's Bailiff's gavel and scales, Gaeliel's Stormcaller's wings of lightning, Gulthus's Gravekeeper's shovel and lantern, Lifius's Thornwarden's crown of thorns and living vine, Delthius's Gambler's top hat and coin, Celmiss's Matron's veil and golden needle. Mvrow's Great Beast is a spirit wolf with a heavy ruff, and Kryuleiza's Voidling a cracked shell around one bright eye.",
+  "The Sollari's lore: the precursors of humanity, reborn because the Pretender, the false god, wanted to understand where humans came from."
  ]
 }
