@@ -1,13 +1,14 @@
 {
- "version": "0.45.0",
- "title": "The Full Canopy",
- "pck": "demo/anthreyel-0.45.0.pck",
- "size": 8727332,
- "sha256": "6cdd179d56facadb8892ce96e6d24a4a3a9aa47528f73c975a163943667f6277",
+ "version": "0.46.0",
+ "title": "Artifacts of the Dead Gods",
+ "pck": "demo/anthreyel-0.46.0.pck",
+ "size": 8747588,
+ "sha256": "5ff94bdcb16a58e13bba83df57a5eddf7c632d2f62d5d97fbb2d32842ab90f25",
  "engine": "4.7.2",
  "notes": [
-  "The Tree of Life is complete: every Crown of every class can be grown. The last 37 are the Jester's and the Drider's.",
-  "Jester: Three-Ring Circus, The Fool's Parade, Showstopper, Usurper's Crown, The Fool Is King, Weighted, Delthius's Smile, Royal Flush, Full House, Card Storm, Standing Ovation, Laughingstock, Roast of the Century, Encore from the Grave (a killing blow leaves you a laughing skeleton until you get a kill), Bone Storm, Headless Fool (your head casts along with you), Divine Fool, Lucky Disaster, The Fool's Errand (a silly task each Ascension), The Rules Are Wrong, Everyone's a Fool and King of Fools.",
-  "Drider: Ossuary, Bone Colossus, Lord of the Grave, Queen's Guard, Hive Mind, Apex Hunt, Eight-Fold Strike, Ambush Queen, Toxic Tide, Wrapped, Endless Web, Puppeteer, Brood Unbreakable, Matriarch's Will and Venom Brood."
+  "Artifacts: 13 new trinkets, things the dead gods owned or used but weren't known for, each still holding a little of its god. Kryu's Primer (half your damage becomes Void: holy and shadow at once), Feeding Bowl of Kryu, Kryu's Lantern, Gylvor's Morningstar, Gylvor's Inkwell, Gylvor's Seal Ring, Vyl's Hourglass, Vyl's Abacus, Vyl's Garden Shears, XyloFel's Potter's Wheel, XyloFel's Chisel, XyloFel's Kiln Ember (spiralling embers for fire builds) and XyloFel's Sample Jar. Large or Grand in size, they change how a build plays. One of each counts.",
+  "Super Unique Trinkets are much smaller: 2x4 instead of 2x9 (yours shrink too), so there's room for other trinkets around them. Their stats count at 80% to make up for it; granted skills and auras are unchanged.",
+  "The same skill or aura from more than one trinket now stacks: the levels add up (two trinkets granting Fireball 4 give Fireball 8). Auras merge into one stronger aura, Brood charms' minion auras too.",
+  "Artifacts drop from item level 30 (about Ascension 10) and from guardians."
  ]
 }
