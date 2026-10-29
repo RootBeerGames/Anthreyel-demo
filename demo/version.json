@@ -1,14 +1,15 @@
 {
- "version": "0.47.0",
- "title": "The Way Down to Nothing",
- "pck": "demo/anthreyel-0.47.0.pck",
- "size": 8766068,
- "sha256": "189a6f8798bd48e71d7dba2d32a184d05a11e0e486bd2d33d9d8b185aad6935e",
+ "version": "0.48.0",
+ "title": "The Herald of Nothingness",
+ "pck": "demo/anthreyel-0.48.0.pck",
+ "size": 8841532,
+ "sha256": "e420b51d54f7143b1f9dc44954d78d2d1f9bc9e8c4fec654b8dbf58c31abcee7",
  "engine": "4.7.2",
  "notes": [
-  "Artifacts of the living gods: 9 more, one from each living god. Celmiss's Sewing Needle (overhealing is stitched into a shield), Cevel's Glass Eye (a floating eye: 25% of your damage echoes onto the same target), Gaeliel's Wind Chime (every 5th hit calls lightning onto everything you've just hit), Delthius's Tea Set (every 30s a reading names an element: that damage is doubled), Gulthus's Gardening Gloves (kills plant grave-flowers that heal allies and poison enemies), Mvrow's Collar (your oldest summon, or a spirit hound, strikes what you strike and can't die while you live), Kryuleiza's Mirror (a big hit summons a mirror image that casts what you cast), Lifius's Watering Can (healing grows a sapling that boosts your damage) and The Truth of Nothingness.",
-  "The Truth of Nothingness, Obliveion's scroll: 15% of the damage you'd take is simply erased (before resistances; one scroll counts), and what you kill leaves no corpse. And it hides a secret: \"Find the way down to me.\"",
-  "The Negative Ascensions: with the scroll, the Way Down at Ascension 1 goes further down, to Ascension -1 and on to -100, where reality is breaking. They are harder than the climb above, between them lie hollow camps (an altar and a stash, nothing living), and they don't count toward the climb. At Ascension -100, something waits for you.",
-  "The Mystic's window now opens beside your Trinket Pouch, instead of listing every charm in a long column: right-click a charm in the pouch to put it on her altar."
+  "A new class: the Herald of Nothingness, Obliveion's herald. A gooey, thinking slime with a mouth full of tiny sharp teeth; pick its colour when you make one. Beat the Herald of Obliveion at Ascension -100 to unlock it.",
+  "Null: a new damage type. Nothing resists it and nothing can shred it, it carries no element (no reactions), and on a hero armor doesn't stop it (a block does). Its numbers are hollow. The Herald of Obliveion's erasures are Null now.",
+  "No gear: the Herald wears and wields nothing. It consumes gear (right-click it in your bag): the item is gone for good and its stats count at 50%. Its Teeth grow with your level or your best consumed weapon. Uniques and other good gear ask for a second right-click first.",
+  "Five trees. The Maw eats the elements on enemies and hits with them; every Maw, Hollow and Proclamation hit adds 25% of itself again as Null. The Unmaking is a pure Null caster that strips buffs, wards and whole affixes. The Hollow is the slime itself (Engulf, Seep, Re-form, Everything Becomes Nothing). The Proclamation silences, names and supports the party. Purity's True passives push the added Null to 100%.",
+  "Its class stat is Emptiness, and each tree has its route of Seeds, Boughs and three Crowns on the Tree of Life."
  ]
 }
