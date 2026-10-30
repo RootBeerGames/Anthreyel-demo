@@ -1,12 +1,15 @@
 {
- "version": "0.50.2",
- "title": "Smooth Stars",
- "pck": "demo/anthreyel-0.50.2.pck",
- "size": 8998728,
- "sha256": "ed04e8406499e0cc7018bc6114d3f34c1b167dca25f59b292ada6a03f50dbf90",
+ "version": "0.51.0",
+ "title": "Tricks, Blessings and Storms",
+ "pck": "demo/anthreyel-0.51.0.pck",
+ "size": 9022040,
+ "sha256": "6561b90d3c66935f6644de7a87a6f60f0fa6513a574afaecb7289bb49f29b0c1",
  "engine": "4.7.2",
  "notes": [
-  "Fixed heavy lag while playing a Sollari. Looking a skill up meant going through every skill in the game, and the Sollari's Fuel did that thousands of times a frame. Skills are indexed now and their stats are cached for the frame: a Sollari's own work per frame went from about 4.8 ms to about 0.3 ms, and every other class got a bit faster too.",
-  "The Sollari's model draws in about 30 pieces instead of about 115 (its little lights are merged), and looks exactly the same."
+  "The Rogue's new tree, Dirty Tricks: on-hit tricks. A hidden second stab (twice as likely on a crit), thrown knives at other enemies, smoke that blinds, caltrops that slow and bleed, and pickpocketing for gold. Twist the Knife makes your crits roll every trick twice; tricks can poison and add Lethality. Its Limit Break, Death by a Thousand Cuts, tears an enemy open after 10 tricks.",
+  "The Holy Knight's new tree, The Gods' Blessings: one on-hit blessing for each living god. Celmiss heals you and your allies, Gaeliel calls lightning, Cevel judges (double against enemies with more life than you), Gulthus drains life and raises a striking spirit from what it kills, Mvrow's spirit beast bites, Lifius grows a healing flower, Delthius rolls one of your other blessings, Kryuleiza opens a rift, and Obliveion strips a buff and deals Null. The Pantheon (Limit Break) sets them all off at once. Blessings stay separate from prayers and Favor.",
+  "The Mage's new tree, Spellstorm: on-CAST effects that roll whenever you cast a damaging spell, likelier for bigger spells. Arcane Echo, Mana Surge, Elemental Overflow, Ley Line, Spell Mirror, Orbiting Runes, Time Slip, Prismatic Burst and Overcast (Limit Break: the spell again at full power). Most take a passive slot, the same slots as your familiars: storm or familiars. Its capstone, Spellstorm, rolls everything twice for free.",
+  "Each new tree has its route on the Tree of Life with three Crowns, and chains 1 or 2 links (the Sollari still go deepest). On-hit gear joins these chains too.",
+  "The skill window's passive row now shows \"Always on: N\" (hover it for the list), so a class with many True passives no longer squeezes the window."
  ]
 }
