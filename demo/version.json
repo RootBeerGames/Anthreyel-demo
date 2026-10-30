@@ -1,13 +1,12 @@
 {
- "version": "0.50.1",
- "title": "Sculpted Foes",
- "pck": "demo/anthreyel-0.50.1.pck",
- "size": 8996504,
- "sha256": "6accd4705a4e37d0fce6c6cb30ce4525f272c9534b475988066d4cd622e51d28",
+ "version": "0.50.2",
+ "title": "Smooth Stars",
+ "pck": "demo/anthreyel-0.50.2.pck",
+ "size": 8998728,
+ "sha256": "ed04e8406499e0cc7018bc6114d3f34c1b167dca25f59b292ada6a03f50dbf90",
  "engine": "4.7.2",
  "notes": [
-  "The zone enemies are sculpted now, not pill shapes: the Leaking Specimen (a half-melted body of glowing goo with its IV tubes still in), the Laboratory Warden (riveted plate, a lamp on the helm, a striped tower shield), the Cave Burrower (a ringed grub with a drill of a snout), the Spore Puff and its Sporelets (with gills, spots and a haze of spores), the Moss Shaman (a cloak of moss and ferns, a bone mask), the Ember Bull (rock with glowing seams of fire), the Cinder Mortar (a stone crab with a smoking chimney), the Crypt Wraith (a tattered shroud of light), the Frost Archer (a fur-trimmed parka and a bow of ice) and the Ice Yeti (shaggy, horned and tusked).",
-  "The Divine Ones too: long robes, mantles and bell sleeves, real faces (Obliveion's Blank has none), and each one's mark: Cevel's Bailiff's gavel and scales, Gaeliel's Stormcaller's wings of lightning, Gulthus's Gravekeeper's shovel and lantern, Lifius's Thornwarden's crown of thorns and living vine, Delthius's Gambler's top hat and coin, Celmiss's Matron's veil and golden needle. Mvrow's Great Beast is a spirit wolf with a heavy ruff, and Kryuleiza's Voidling a cracked shell around one bright eye.",
-  "The Sollari's lore: the precursors of humanity, reborn because the Pretender, the false god, wanted to understand where humans came from."
+  "Fixed heavy lag while playing a Sollari. Looking a skill up meant going through every skill in the game, and the Sollari's Fuel did that thousands of times a frame. Skills are indexed now and their stats are cached for the frame: a Sollari's own work per frame went from about 4.8 ms to about 0.3 ms, and every other class got a bit faster too.",
+  "The Sollari's model draws in about 30 pieces instead of about 115 (its little lights are merged), and looks exactly the same."
  ]
 }
