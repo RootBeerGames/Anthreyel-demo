@@ -1,15 +1,14 @@
 {
- "version": "0.52.0",
- "title": "Relics of the Dead Gods",
- "pck": "demo/anthreyel-0.52.0.pck",
- "size": 9842016,
- "sha256": "d47b97a22c5c6184279f05d67fd7350e6888ffeb3eca8cf6efd5332aec65a996",
+ "version": "0.53.0",
+ "title": "God Stones and Crown Relics",
+ "pck": "demo/anthreyel-0.53.0.pck",
+ "size": 9855596,
+ "sha256": "dee83570b2b832b9dcf117180a2c2e9a0f665a01fae512829a3817d59aded14a",
  "engine": "4.7.2",
  "notes": [
-  "The Reliquary (K, or the Relics button): six body slots, Eye, Throat, Heart, Hand, Spine and Wing / Tail, for the dead gods' own parts. Two are open at first; one more opens at Ascensions 20, 40, 60 and 80 (all six on New Game+). Right-click a part in your bag to set it in; click it in the Reliquary to take it out.",
-  "18 parts drop from Ascension 30 (bosses far more often): four each of Gylvor, Vyl and XyloFel, and six of Kryu. Kryu's parts are mismatched pieces of many creatures: they fit any slot, but each copies another god's part at 70%. Three of them together: We Are Many (full strength, and they count toward the god they copy).",
-  "Set bonuses for 2 and 4 parts of one god (Kryu: 2 and 3). See the new Game Guide page, The Reliquary.",
-  "Orbs of Concept now carry their god's on-hit effect, for any class: Erasure, Thornbloom, The Gavel Falls, Stormstrike, Grave Hand, Coin Toss, Pounce, Lullaby and Rift. 10% chance on every hit, +1% per rarity step (13% Legendary). A Herald's consumed Orbs keep it.",
-  "Every artifact of the gods has its own picture now (the Primer, the Morningstar, the Hourglass, the Glass Eye, the Tea Set...), and each Orb of Concept shows its idea inside the glass: a sprouting seed, tiny scales, a thundercloud, a spinning coin, paw prints."
+  "God Stones: one for each of the nine living gods. Any open hollow of your Tree of Life takes one, like a rune stone. Its god's blessing works on you (Cevel's: more damage to the wounded; Delthius's: magic find, Luck and gold; Obliveion's: damage added as Null...), and the skills of the route it sits in deal 10% more. Only one stone of each god counts; a Holy Knight's stones are 50% stronger.",
+  "God Stones drop from Ascension 20, and a Divine One often drops its own god's.",
+  "Crown relics, the dead gods' great pieces: the Gavel-Hand (every 8s a gavel crushes the nearest enemy), the Keystone Spine (unhit for 4s: +25% damage and 15% less damage taken) and the Hollow Maw (kills are devoured: heal and stacking damage). Each takes two neighbouring hollows of one route; only one counts at a time. Bosses drop them from Ascension 50.",
+  "The Tree window's Rune Bag is now the Stone Bag: rune stones, God Stones and Crown relics. New Game Guide page: God Stones & Crown Relics."
  ]
 }
